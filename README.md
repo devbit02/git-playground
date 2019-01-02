@@ -11,7 +11,7 @@ For learning more about git and Github.
 ### Snapshot Commands
 * git clone <url>             # clone a remote repository
 * git status
-* git add .                   # adds all files to git
+* git add <filename>          # adds files to git
 * git rm                      # removes file/directory. '-r' for recursive remove
 * git commit -m '<message>'   # commits changes from the index with a message
 
